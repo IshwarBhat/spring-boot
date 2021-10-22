@@ -1,0 +1,8 @@
+com/ish/ThemeParkApplication.java
+ com.ish.ThemeParkApplication
+com/ish/repository/ThemeParkRideRepository.java
+ com.ish.repository.ThemeParkRideRepository
+com/ish/entity/ThemeParkRide.java
+ com.ish.entity.ThemeParkRide
+com/ish/controller/ThemeParkRideController.java
+ com.ish.controller.ThemeParkRideController
