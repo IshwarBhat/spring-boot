@@ -15,5 +15,10 @@ pipeline {
                 sh './gradlew test'
             }
         }
+        stage('Scan') {
+            steps {
+                echo 'Veracode Scan ...'
+            }
+        }
     }
 }
